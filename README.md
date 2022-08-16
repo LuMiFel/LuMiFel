@@ -3,17 +3,16 @@
 
 
 - 🔭 I’m currently looking for my first challenge in Code World
+- 😄 You can download my CV here.
+- 📫 You can reach me @ <img src="https://camo.githubusercontent.com/3869831684498919d1ee83b8244704f4de50910eabcc464c324a0a79458606df/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d6331343433383f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a6e6164612e676572616c40676d61696c2e636f6d" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:luis.mtfelix@gmail.com" style="max-width: 100%;">
+<!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 😄 You can download my CV here.
-- 📫 You can reach me @ <img src="https://camo.githubusercontent.com/3869831684498919d1ee83b8244704f4de50910eabcc464c324a0a79458606df/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d6331343433383f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a6e6164612e676572616c40676d61696c2e636f6d" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:luis.mtfelix@gmail.com" style="max-width: 100%;">
-
+-->
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=lumifel&label=Profile%20views&color=0e75b6&style=flat" alt="lumifel" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a></p>
 
 <h2 align="left">Languages and Tools:</h2>
 <h4 align="left">Backend:</h4>
