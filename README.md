@@ -95,10 +95,10 @@
 <div align="center" dir="auto">
 <p align="left"><img src="https://komarev.com/ghpvc/?username=lumifel&label=Profile%20views&color=0e75b6&style=flat" alt="lumifel" /> </p>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/LuMiFel/convoychat">
-  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?hide_title=false&amp;hide_rank=false&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;disable_animations=false&amp;theme=dracula&amp;locale=en&amp;hide_border=false&amp;username=LuMiFel" style="max-width: 100%;"/>
+  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?hide_title=false&amp;hide_rank=false&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;disable_animations=false&amp;theme=prussian&amp;locale=en&amp;hide_border=false&amp;username=LuMiFel" style="max-width: 100%;"/>
 </a>
 <a href="https://github.com/LuMiFel/github-readme-stats">
-  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuMiFel&layout=dark&theme=tokyonight" style="max-width: 100%;"/>
+  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuMiFel&layout=dark&theme=prussian" style="max-width: 100%;"/>
 </a>
 </div>
 
