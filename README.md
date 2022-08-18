@@ -13,8 +13,6 @@
 - 💬 Ask me about ...
 -->
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=lumifel&label=Profile%20views&color=0e75b6&style=flat" alt="lumifel" /> </p>
-
 <h2 align="left">Languages and Tools:</h2>
 <table>
     <tr>
@@ -95,6 +93,7 @@
 
 <h2 align="left">Statistics:</h2>
 <div align="center" dir="auto">
+<p align="left"><img src="https://komarev.com/ghpvc/?username=lumifel&label=Profile%20views&color=0e75b6&style=flat" alt="lumifel" /> </p>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/LuMiFel/convoychat">
   <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?hide_title=false&amp;hide_rank=false&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;disable_animations=false&amp;theme=dracula&amp;locale=en&amp;hide_border=false&amp;username=LuMiFel" style="max-width: 100%;"/>
 </a>
