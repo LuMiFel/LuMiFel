@@ -102,12 +102,11 @@
 
 <div align="center" dir="auto">
 
-
-<a href="https://github.com/LuMiFel/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?hide_title=false&amp;hide_rank=false&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;disable_animations=false&amp;theme=dracula&amp;locale=en&amp;hide_border=false&amp;username=LuMiFel"/>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/LuMiFel/convoychat">
+  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?hide_title=false&amp;hide_rank=false&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;disable_animations=false&amp;theme=dracula&amp;locale=en&amp;hide_border=false&amp;username=LuMiFel" style="max-width: 100%;"/>
 </a>
 <a href="https://github.com/LuMiFel/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuMiFel&layout=dark&theme=tokyonight"/>
+  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuMiFel&layout=dark&theme=tokyonight" style="max-width: 100%;"/>
 </a>
 
 </div>
