@@ -101,10 +101,13 @@
 
 
 <div align="center" dir="auto">
-<a href="https://github.com/LuMiFel/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
-</a>
+
+
 <a href="https://github.com/LuMiFel/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LuMiFel&repo=convoychat"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?hide_title=false&amp;hide_rank=false&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;disable_animations=false&amp;theme=dracula&amp;locale=en&amp;hide_border=false&amp;username=LuMiFel"/>
 </a>
+<a href="https://github.com/LuMiFel/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuMiFel&layout=dark&theme=tokyonight"/>
+</a>
+
 </div>
