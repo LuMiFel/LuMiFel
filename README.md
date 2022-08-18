@@ -47,8 +47,6 @@
                         height="40" /></a>
             </p>
         </td>
-    </tr>
-    <tr>
         <td>
             <h4 align="left">Database:</h4>
             <p align="left">
@@ -56,6 +54,8 @@
                     <img src="https://api.iconify.design/logos/mysql.svg" alt="mysql" width="40" height="40" /></a>
             </p>
         </td>
+    </tr>
+    <tr>
         <td>
             <h4 align="left">Software:</h4>
             <p align="left">
@@ -73,8 +73,6 @@
                         alt="photoshop" width="40" height="40" /></a>
             </p>
         </td>
-    </tr>
-    <tr>
         <td>
             <h4 align="left">Other:</h4>
             <p align="left">
