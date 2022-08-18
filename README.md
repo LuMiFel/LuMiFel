@@ -93,20 +93,18 @@
     </tr>
 </table>
 
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-    <a href="https://www.linkedin.com/in/luis-miguel-felicio/" rel="nofollow"><img src="https://camo.githubusercontent.com/19ab66b156bdb4b9f3e20619e5a8093d542519975f2e242dee14bb0f86ff4ac2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f66696c697065616e746f6e696f6d6f74612f" alt="Linkedin Badge" style="max-width: 100%;"></a>
-    <a href="mailto:luis.mtfelix+github@gmail.com"><img src="https://camo.githubusercontent.com/3869831684498919d1ee83b8244704f4de50910eabcc464c324a0a79458606df/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d6331343433383f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a6e6164612e676572616c40676d61696c2e636f6d" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:nada.geral@gmail.com" style="max-width: 100%;"></a>     
-</p>
-
-
+<h2 align="left">Statistics:</h2>
 <div align="center" dir="auto">
-
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/LuMiFel/convoychat">
   <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?hide_title=false&amp;hide_rank=false&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;disable_animations=false&amp;theme=dracula&amp;locale=en&amp;hide_border=false&amp;username=LuMiFel" style="max-width: 100%;"/>
 </a>
 <a href="https://github.com/LuMiFel/github-readme-stats">
   <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuMiFel&layout=dark&theme=tokyonight" style="max-width: 100%;"/>
 </a>
-
 </div>
+
+<h2 align="left">Let's connect:</h2>
+<p align="left">
+    <a href="https://www.linkedin.com/in/luis-miguel-felicio/" rel="nofollow"><img src="https://camo.githubusercontent.com/19ab66b156bdb4b9f3e20619e5a8093d542519975f2e242dee14bb0f86ff4ac2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f66696c697065616e746f6e696f6d6f74612f" alt="Linkedin Badge" style="max-width: 100%;"></a>
+    <a href="mailto:luis.mtfelix+github@gmail.com"><img src="https://camo.githubusercontent.com/3869831684498919d1ee83b8244704f4de50910eabcc464c324a0a79458606df/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d6331343433383f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a6e6164612e676572616c40676d61696c2e636f6d" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:nada.geral@gmail.com" style="max-width: 100%;"></a>     
+</p>
