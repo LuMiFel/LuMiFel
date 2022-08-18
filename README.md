@@ -5,6 +5,9 @@
 - 🖥️ You can download my CV <a href="https://github.com/LuMiFel/LuMiFel/blob/main/LuisFelicio_CV.pdf" target="_blank" rel="noreferrer">here</a>.
 
 <!--
+- 😱 You can see my skills here.
+>>>>> https://github.com/Drete457/Drete457/blob/master/technicalSkills.md
+
 - 📫 You can reach me @
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
