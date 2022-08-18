@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently looking for new challenge in Code World
-- 😄 You can download my CV here.
+- 🖥️ You can download my CV here.
 
 <!--
 - 📫 You can reach me @
