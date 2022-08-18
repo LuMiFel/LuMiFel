@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Luis Felicio</h1>
 <h3 align="center">A passionate FullStack Developer</h3>
 
-
 - 🔭 I’m currently looking for new challenge in Code World
-- 🖥️ You can download my CV here.
+- 🖥️ You can download my CV <a href="https://github.com/LuMiFel/LuMiFel/blob/main/LuisFelicio_CV.pdf" target="_blank" rel="noreferrer">here</a>.
 
 <!--
 - 📫 You can reach me @
