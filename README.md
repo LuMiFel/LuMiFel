@@ -2,7 +2,7 @@
 <h3 align="center">A passionate FullStack Developer</h3>
 
 
-- 🔭 I’m currently looking for my first challenge in Code World
+- 🔭 I’m currently looking for new challenge in Code World
 - 😄 You can download my CV here.
 
 <!--
