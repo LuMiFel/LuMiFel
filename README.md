@@ -16,7 +16,7 @@
 -->
 
 <h2 align="left">Languages and Tools:</h2>
-<table align="center">
+<table align="left">
     <tr>
         <td>
             <h4 align="left">Frontend:</h4>
