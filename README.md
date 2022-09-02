@@ -15,8 +15,8 @@
 - 💬 Ask me about ...
 -->
 
-<h2 align="center">Languages and Tools:</h2>
-<table>
+<h2 align="left">Languages and Tools:</h2>
+<table align="center">
     <tr>
         <td>
             <h4 align="left">Frontend:</h4>
